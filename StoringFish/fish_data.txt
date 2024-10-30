@@ -1,0 +1,26 @@
+﻿Goldfish
+Salmon
+Tuna
+Clownfish
+Mackerel
+Trout
+Bass
+Snapper
+Grouper
+Herring
+Sardine
+Perch
+Pike
+Catfish
+Angelfish
+Betta
+Koi
+Dolphin Fish
+Sturgeon
+Swordfish
+Barracuda
+Flounder
+Tilapia
+Rainbow Trout
+Pufferfish
+Lionfish

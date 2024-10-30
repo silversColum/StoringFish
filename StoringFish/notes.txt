@@ -1,0 +1,17 @@
+﻿Array vs. Dictionary (Map)
+Access: Arrays allow for fast index-based access, while 
+dictionaries provide fast key-based access.
+Flexibility: Dictionaries can grow dynamically as items are added, 
+while arrays have a fixed size.
+Efficiency: Dictionaries are generally more efficient for lookups when 
+using keys, especially if the data size is large and the number of 
+unique keys is high.
+
+Stack vs. Queue
+Order of Access: Stacks operate in a LIFO manner, making them 
+suitable for scenarios like recursion or undo operations. Queues operate 
+in a FIFO manner, making them ideal for processing tasks in 
+the order they arrive.
+Use Cases: Use stacks for scenarios needing backtracking 
+(like parsing expressions), and use queues for task scheduling 
+(like handling print jobs).
